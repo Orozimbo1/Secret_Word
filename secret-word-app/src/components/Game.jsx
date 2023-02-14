@@ -11,7 +11,7 @@ const Game = ({ verifyLetter, pickedCategory }) => {
         Dica sobre a palavra: <span>{pickedCategory}</span>
       </h3>
       <div className="wordContainer">
-        <span className="letter"></span>
+        <span className="letter">A</span>
         <span className="blankSquare"></span>
       </div>
       <div className="letterContainer">
