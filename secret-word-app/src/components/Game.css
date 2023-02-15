@@ -19,14 +19,14 @@
 
 .letter, .blankSquare {
   font-size: 70px;
-  line-heigth: 1.5;
+  line-height: 1.5;
   border: 3px solid #000;
-  heigth: 100px;
+  height: 100px;
   width: 100px;
   text-transform: uppercase;
   background-color: #fff;
   color: #000;
-  font-weigth: bold;
+  font-weight: bold;
 }
 
 .letterContainer p {
@@ -40,7 +40,7 @@
 }
 
 .letterContainer input {
-  heigth: 50px;
+  height: 50px;
   width: 50px;
   font-size: 2em;
   text-align: center;
